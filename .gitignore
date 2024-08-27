@@ -1,3 +1,9 @@
+# Игнорировать папку data
+data/
+
+# Игнорировать файл test.ipynb
+test.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

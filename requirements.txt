@@ -1,0 +1,8 @@
+aiohttp==3.9.5
+python-dotenv==1.0.1
+sqlalchemy==2.0.31
+asyncpg==0.29.0
+greenlet==3.0.3
+aiogram==3.6.0
+python-dateutil==2.9.0.post0
+pandas==2.2.2
